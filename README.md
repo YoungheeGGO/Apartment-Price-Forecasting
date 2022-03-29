@@ -9,5 +9,15 @@
 - What is the actual apartment transaction price index?
   - When looking at the actual transaction price of apartments in Seoul as 100 in November 2017, data from calculating the average price of apartment sales by year and month in each year.
 
-## Contents
-
+## Lecture Contents
+1. Exploratory analysis **HW1**
+2. Smoothing **HW2**
+3. Decomposition **HW3**
+4. Stationary process - theory (It's not uploaded on github!)
+5. PACF & AR(p) model
+6. MA(q) model & ARMA(p,q)
+7. Nonstationary process **HW5**
+8. Unit root test
+9. ARMA estimation & diagnostics
+10. ARIMA forecasting **HW6**
+11. Seasonal ARIMA
