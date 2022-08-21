@@ -1,4 +1,4 @@
-# Prediction of the actual apartment transaction price index in Seoul
+# Forecasting of the actual apartment transaction price index in Seoul
 - This project was for time series data analysis lecture at Kyonggi University.
 - Period : Mar.2021 ~ Jun.2021
 
